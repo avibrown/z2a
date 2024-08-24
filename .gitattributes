@@ -1,0 +1,4 @@
+oss-cad-suite/libexec/nextpnr-ice40 filter=lfs diff=lfs merge=lfs -text
+oss-cad-suite/libexec/nextpnr-ecp5 filter=lfs diff=lfs merge=lfs -text
+oss-cad-suite/libexec/nextpnr-machxo2 filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
